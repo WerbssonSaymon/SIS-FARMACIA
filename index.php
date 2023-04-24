@@ -11,7 +11,7 @@
     <body>
         <section class="container d-flex flex-column justify-content-center align-items-center">
             <h1 class="title text-center">FARMAGLOBAL <br> A FARMACIA DO BRASIL</h1>
-            <button class="btn btn-primary shadow-sm mb-4" type="button"><strong>ACESSAR</strong></button>
+            <button class="btn btn-primary shadow-sm mb-4" type="button"><strong><a class="link-light" href="./pages/login.php">ACESSAR</a></strong></button>
         </section>
         <!-- scripts -->
         <script type="text/javascript" src="./scripts/bootstrap/bootstrap.js"></script>
